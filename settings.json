@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "joinsmp1.aternos.me",
+    "port": 50749,
     "version": "1.21.1"
   },
   "position": {
